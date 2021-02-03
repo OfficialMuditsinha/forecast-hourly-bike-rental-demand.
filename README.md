@@ -11,7 +11,7 @@ location, and time elapsed is explicitly recorded. Bike sharing systems
 therefore function as a sensor network, which can be used for studying
 mobility in a city
 # Problem Statement
-In this project,I combined historical usage patterns with
+In this project, I combined historical usage patterns with
 weather data in order to forecast hourly bike rental demand.
 # Evaluation Metric
 The Evaluation metric for this project is Root Mean Squared Logarithmic
